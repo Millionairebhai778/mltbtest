@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sapient-spark-350912",
+  "private_key_id": "7f880fe4f9d403a6e00de04603c8c2c7dd017d33",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDInx9cTtCt0tWl\n4XxkUiY+dsfGX9bZmTQ/88px8t0NvWehBhLMKxqbOtiYY5kCI2hUvWPcLCkjEKHH\nspl8fNUgFTVA8GCn47VH69GRGydEfUDp8QZdL5glC3kEybfh+UH4GgAITOy6gQYM\nG0u2h83KuGr55LSCOIS9pvpQ2ayBE04p811FWEhxLzsciGQeh6takZarLjZpkxKm\naaRVmiTDYMFHuvuc3aitwXYymETYtbYyeTlXJccf8pkN5TfcO5DW//HBdCl/AnxA\nmhgWTZqJyp7l0zE4+n2KfSBIq/SDnt19gwMPyhEqUm1YSZnWRXZHlnKKbUOuWHWu\n3RYA6WcjAgMBAAECggEAQpMrYQJ2lXhFlcqB8Pih4FCict4S+hqxEBfisnWZjZmw\n7eqKCl6zcZfRkKBcgi0lzhkbLlEpRY2bYh2OeZUjVIY1Kdua95vE6J0E6lZMbZnz\nFK77IalNn91yx3f5IXAJyD84i4ibdjiivRnBwkzGqeMQ/OQ8UopW4miq4HGboSkj\n4jf75fLHnjaDwaARtC7X1ePMBdpcLXGPd6X5598D5HEp47wH70eQKdgwGsZWgAwM\nLRecdI34PKo2nuNKFfQ3f3DPDA8cYuBNis3i0llc8ewkgAWJtqeAZsJnDI2dvYdU\nSikGCefO9qFFumCeiVNZR/KVLgAoTl0GS+rm4fWBAQKBgQD3qcozsbrp06MVkJgz\nJRthlqrs518cKtejveVg/mqlYrmS24WVbGTlDhpNufeQ8Lf6i3X/Rbd1K5gL6fGE\no0Qimsza1pFSA0molxTsFY1UTA+VvUoNjej39+E4VrdoRL7hL06jFOf8BUy3CY4Q\nJJMVpvyA7Puxyz0tZXVYkMMzQwKBgQDPX/TTh6u2Ro6GWe+uZ7x5K8Y/DSOYh10Q\niT9D+l7eHlhhi9OzvwDYg0G26jbvcL4SXoEpEYssfbfhvSS0Mlj5I6ovTBc96pk6\nXVf/mWXVMu91r9VZY8SMm9oJYzvCl23Ilr8ttMCMSZq7NV+SDWVQ6MivjFYLklcq\nnLswOH2OoQKBgQDrxkmIUyAlcOSmKAStVBswGZbZeB80mpi1+pd/clWm40jVxYTz\nzsByy61A59UGuBP+QnxwLDfOJVVXqjzST/gSlZqGj5TDJfwess4pPw9P/CUuIYl5\nQ+tQ/jv8PZnXevLZQAc1/DYp2AXDjyYeuiMIjvN97Z5kEZ9JM3i2ewJKLwKBgAr2\nztH0RV7gwh5WWPbGo09gwh2JS02AMqpyJzcn4KYrwo59vxaszZWk8u+B2J+2PUZp\nWrjaJZqXlwZHYs5oLw4VFaVkh4INikZssv9fk+O+yqxVPJl6TeUFRHTkmz9BlFtb\npQX8nYWNSrIFM2VccfPiKuIlMFNyTEuDd94nznOhAoGBAOAzO6JgQn6jTWD+1MJe\nezDJAl7Wmg4mbRvWXQruATdF32p6BCsuIirnrqC2zX/h8hgMTYoIHN0rhvZepdRp\n6Ww1c7Gvim8o+PYKa4vYliQQOtVPhS8jVjgYdg84dGygfFkBEjKMTOd2FEcLNXeq\n5bZlEdfkI2kJ9JBN+EKIT/bP\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-0dl7tlmf4-2mqghhqb6fnnfrq7@sapient-spark-350912.iam.gserviceaccount.com",
+  "client_id": "114486639062431143990",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-0dl7tlmf4-2mqghhqb6fnnfrq7%40sapient-spark-350912.iam.gserviceaccount.com"
+}
